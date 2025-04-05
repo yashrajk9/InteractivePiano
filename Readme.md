@@ -79,4 +79,4 @@ Inspired by Van Gogh's *Starry Night*, this application merges art and music to 
 
 ## Working Project
 - Follow the link to experience this project
-![StarryNightsPiano](https://editor.p5js.org/Yash.r/full/mrWrwnkAE)
+[StarryNightsPiano](https://editor.p5js.org/Yash.r/full/mrWrwnkAE)
